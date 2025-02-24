@@ -2,6 +2,8 @@
 ## 유튜브 댓글 수집
 - Colab에서 실행 안됨
 - 아래 코드를 한 셀에 입력해도 됨
+  
+https://www.youtube.com/watch?v=-whqYLlpNAA
 
 [![Video Label](http://img.youtube.com/vi/-whqYLlpNAA/0.jpg)]([https://youtu.be/59USvjy2toI](https://www.youtube.com/watch?v=-whqYLlpNAA))
 -----------------------
